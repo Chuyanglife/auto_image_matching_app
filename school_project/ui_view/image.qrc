@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="background image">
+    <file>text-pageresult.ico</file>
+    <file>add-fileresult.ico</file>
+    <file>full-screenresult.ico</file>
+    <file>searchresult.ico</file>
+    <file>gearresult.ico</file>
+    <file>playresult.ico</file>
+    <file>copyresult.ico</file>
+    <file>cutresult.ico</file>
+    <file>pasteresult.ico</file>
+    <file>redoresult.ico</file>
+    <file>undoresult.ico</file>
+    <file>disketteresult.ico</file>
+    <file>exitresult.ico</file>
+    <file>folderresult.ico</file>
+    <file>minimizeresult.ico</file>
+    <file>pictureresult.ico</file>
+  </qresource>
+</RCC>
